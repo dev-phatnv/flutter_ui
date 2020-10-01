@@ -1,0 +1,44 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.12.2
+Flutter extension: 3.12.2 (not activated)
+
+App: Visual Studio Code
+Version: 1.46.1
+Platform: mac
+
+Workspace type: Flutter
+Multi-root?: false
+
+Dart SDK:
+    Loc: /Users/admin/Projects/FlutterCourse/flutter/bin/cache/dart-sdk
+    Ver: 2.9.2
+Flutter SDK:
+    Loc: /Users/admin/Projects/FlutterCourse/flutter
+    Ver: 1.20.4
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Thu Oct 01 2020 [09:17:02 GMT+0700 (Indochina Time)] Log file started
+[9:17:02 AM] [FlutterDaemon] [Info] Spawning /Users/admin/Projects/FlutterCourse/flutter/bin/flutter with args ["daemon"]
+[9:17:02 AM] [FlutterDaemon] [Info] ..  in /Users/admin/Projects/FlutterCourse/flutter
+[9:17:02 AM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[9:17:02 AM] [FlutterDaemon] [Info]     PID: 1074
+[9:17:02 AM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[9:17:04 AM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.5.3","pid":1115}}]
+[9:17:04 AM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[9:17:04 AM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[9:17:05 AM] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"apple_ios_simulator","name":"iOS Simulator","category":"mobile","platformType":"ios"},{"id":"Pixel_2_API_27","name":"Pixel 2 API 27","category":"mobile","platformType":"android"},{"id":"Pixel_2_API_29","name":"Pixel 2 API 29","category":"mobile","platformType":"android"}]}]
+[9:17:08 AM] [FlutterDaemon] [Info] <== [{"id":"2","result":[null,null,null,null,null,null]}]
+[9:18:41 AM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/admin/Projects/FlutterCourse/learn_flutter/flutter_ui"}}]
+[9:18:41 AM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["ios","android"]}}]
+[9:18:41 AM] [FlutterDaemon] [Info] ==> [{"id":"4","method":"emulator.getEmulators"}]
+[9:18:41 AM] [FlutterDaemon] [Info] <== [{"id":"4","result":[{"id":"apple_ios_simulator","name":"iOS Simulator","category":"mobile","platformType":"ios"},{"id":"Pixel_2_API_27","name":"Pixel 2 API 27","category":"mobile","platformType":"android"},{"id":"Pixel_2_API_29","name":"Pixel 2 API 29","category":"mobile","platformType":"android"}]}]
+[9:18:45 AM] [FlutterDaemon] [Info] ==> [{"id":"5","method":"emulator.launch","params":{"emulatorId":"apple_ios_simulator"}}]
+[9:18:46 AM] [FlutterDaemon] [Info] <== [{"id":"5"}]
+[9:18:49 AM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"8E24E892-2DFC-4787-98D6-9158CE40FCA7","name":"iPhone 11 Pro Max","platform":"ios","emulator":true,"category":"mobile","platformType":"ios","ephemeral":true,"emulatorId":"apple_ios_simulator"}}]
+[9:18:49 AM] [FlutterDaemon] [Info] ==> [{"id":"6","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/admin/Projects/FlutterCourse/learn_flutter/flutter_ui"}}]
+[9:18:49 AM] [FlutterDaemon] [Info] <== [{"id":"6","result":{"platforms":["ios","android"]}}]
+[9:18:50 AM] [General] [Warn] Did not find session 4871478a-7065-436a-a736-ef2c997a8c32 to handle dart.progressStart. There were 0 sessions:
+[9:18:50 AM] [General] [Warn] Event will be queued and processed when the session start event fires
