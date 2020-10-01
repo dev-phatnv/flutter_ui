@@ -42,3 +42,11 @@ Thu Oct 01 2020 [09:17:02 GMT+0700 (Indochina Time)] Log file started
 [9:18:49 AM] [FlutterDaemon] [Info] <== [{"id":"6","result":{"platforms":["ios","android"]}}]
 [9:18:50 AM] [General] [Warn] Did not find session 4871478a-7065-436a-a736-ef2c997a8c32 to handle dart.progressStart. There were 0 sessions:
 [9:18:50 AM] [General] [Warn] Event will be queued and processed when the session start event fires
+[9:46:38 AM] [FlutterDaemon] [Info] ==> [{"id":"7","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/admin/Projects/FlutterCourse/learn_flutter/flutter_ui"}}]
+[9:46:38 AM] [FlutterDaemon] [Info] <== [{"id":"7","result":{"platforms":["ios","android"]}}]
+[9:46:38 AM] [General] [Warn] Did not find session 2cec8e7d-cd22-433a-82bb-58b81d99f0a1 to handle dart.progressStart. There were 0 sessions:
+[9:46:38 AM] [General] [Warn] Event will be queued and processed when the session start event fires
+[10:10:27 AM] [FlutterDaemon] [Info] ==> [{"id":"8","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/admin/Projects/FlutterCourse/learn_flutter/flutter_ui"}}]
+[10:10:27 AM] [FlutterDaemon] [Info] <== [{"id":"8","result":{"platforms":["ios","android"]}}]
+[10:10:27 AM] [General] [Warn] Did not find session 9faa99c8-7bcc-405e-8bb8-f51c8eb4aaf0 to handle dart.progressStart. There were 0 sessions:
+[10:10:27 AM] [General] [Warn] Event will be queued and processed when the session start event fires
