@@ -80,6 +80,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "simple_animations",
+      "rootUri": "file:///Users/admin/Projects/FlutterCourse/flutter/.pub-cache/hosted/pub.dartlang.org/simple_animations-1.3.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/admin/Projects/FlutterCourse/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-10-01T02:17:18.215944Z",
+  "generated": "2020-10-01T09:03:02.840330Z",
   "generator": "pub",
   "generatorVersion": "2.9.2"
 }
